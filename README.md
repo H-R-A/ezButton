@@ -1,18 +1,19 @@
-# Welcome to GitHub
+# What is it?
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+This is a small and (very) simple variant of the library ezButton provided by ArduinoGetStarted.com.
+If your're looking for the ezButton lib, please check it out in ArduinoGetStarted.com.
 
-## Repositories
+## Why would I do it?
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+I was working on a project with a very long code, and due to a conflict in the different libraries used, the function millis() was causing problems for usage in the code.
+As I had simmilar issues before and new that a change to now() solved the problem, I did the same approach for the ezButton library.
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
 
-## Describe your project
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+
+
+
 
 ## Your first website
 
